@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/0*FGD6BUzzZs1VJLuY.gif" alt="MasterHead">
+  <img src="https://miro.medium.com/v2/resize:fit:1400/0*FGD6BUzzZs1VJLuY.gif" alt="MasterHead" style="width: 800px; height: 350px; border: 3px solid #ccc; border-radius: 50%;">
 </div>
 <h1 align="center">Hi 👋, I'm Maor Saadia</h1>
 <h3 align="center">I'm a Software Engineer Developer With Expertise In The MERN (MongoDB, Express.js, React.js, Node.js) Stack. I Love Developing Websites And Applications That Create Meaningful User Experiences.</h3>
