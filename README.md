@@ -5,7 +5,7 @@
 <h3 align="center">I'm a Software Engineer Developer With Expertise In The MERN (MongoDB, Express.js, React.js, Node.js) Stack. I Love Developing Websites And Applications That Create Meaningful User Experiences.</h3>
 
 
-- 🌱 I’m currently learning **React Native, R Programing**
+- 🌱 I’m currently learning **Advanced React**
 
 - 💬 Ask me about **MERN**
 
