@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Docker & Kubernetes, TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://maor-saadia-portfolio.vercel.app/](https://maor-saadia-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://maor-saadia-new-portfolio.vercel.app/](https://maor-saadia-portfolio.vercel.app/)
 
 - 💬 Ask me about **MERN**
 
